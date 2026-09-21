@@ -1,5 +1,9 @@
 body{
-    background-color:lightblue;  
-    color:aqua;
-    background-color:grey;
+    background-color:lightblue;
 }
+
+p{
+    color:blue;
+    font-size:2rem;
+}
+    
